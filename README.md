@@ -22,7 +22,11 @@ Mit dem MCP-Server kann ein angemeldeter MCP-Client auf die Kontofunktionen zugr
 
 Die Serveradresse lautet: **https://api.rechnungsnummer-generator.de/mcp**
 
-Eine Schritt-für-Schritt-Anleitung für Codex steht in [MCP mit Codex verbinden](docs/mcp-mit-codex-verbinden.md).
+Einrichtungswege für ChatGPT, Codex, Claude, Gemini CLI, Cursor und GitHub Copilot stehen in [MCP mit KI-Assistenten verbinden](docs/mcp-ki-assistenten-verbinden.md). Die bisherige [Codex-Kurzanleitung](docs/mcp-mit-codex-verbinden.md) bleibt ebenfalls verfügbar.
+
+### Agenten
+
+Eine fertige Anleitung für Coding-Agenten erklärt die REST-API, MCP und vorsichtige Freigaben: [Agenten einrichten](docs/agenten.md). Die gleiche Anleitung steht auch auf der [Website](https://rechnungsnummer-generator.de/agenten).
 
 ## Worum es in diesem Repository geht
 
