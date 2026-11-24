@@ -28,6 +28,10 @@ Einrichtungswege für ChatGPT, Codex, Claude, Gemini CLI, Cursor und GitHub Copi
 
 Eine fertige Anleitung für Coding-Agenten erklärt die REST-API, MCP und vorsichtige Freigaben: [Agenten einrichten](docs/agenten.md). Die gleiche Anleitung steht auch auf der [Website](https://rechnungsnummer-generator.de/agenten).
 
+## Neu am 24. November 2026
+
+Wir haben fünf neue Ratgeber veröffentlicht und die internen Verweise auf passende Informationen ergänzt. Die Themen und direkten Links stehen in den [Änderungen vom 24. November 2026](docs/updates/2026-11-24.md).
+
 ## Worum es in diesem Repository geht
 
 Dieses öffentliche Repository enthält Anleitungen und Hintergrundinformationen. Es enthält keinen Programmcode, keine SDKs, keine Zugangsdaten und keine Kundendaten. Der Quellcode der Website und der Dienste bleibt in privaten Repositories.
